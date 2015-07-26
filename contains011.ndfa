@@ -1,0 +1,4 @@
+$Start:0.FirstZero|1.Start
+FirstZero:0.FirstZero|1.FirstOne
+FirstOne:0.Start|1.SecondOne
+*SecondOne:0.SecondOne|1.SecondOne
